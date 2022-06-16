@@ -42,4 +42,12 @@
  * @Describe :
  * Author :HuangZW
  */
-this is test!!
+/**
+ *composer create-project --prefer-dist laravel/laravel=8.5.*  server    安装命令
+
+ *
+ *
+ *
+ *
+ *
+ */
